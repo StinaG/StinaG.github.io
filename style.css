@@ -1,0 +1,20 @@
+.container{
+	margin:  auto;
+	font-family: times;
+	background-color: lightgrey; 
+}
+.grid{
+	height: 300px;
+	width: 300px;
+
+}
+
+.lucia1{
+	height: 300px;
+	width: 450px;
+}
+
+.lucia2 {
+	height: 300px;
+	width: 450px;
+}
